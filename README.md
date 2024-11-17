@@ -1,5 +1,5 @@
-# Trabalho de Conclusão de Curso
-## Unifran - Universidade de Franca
+# Visão Computacional aplicada ao diagnóstico de pneumonia em radiografias de tórax
+## Trabalho de Conclusão de Curso – Unifran - Universidade de Franca
 <br>
 
 **Discente:** Ivan Beretta Peres<br>
